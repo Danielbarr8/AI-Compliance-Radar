@@ -2,7 +2,7 @@ app.py
 import streamlit as st
 
 st.set_page_config(page_title="AI Risk Radar", page_icon="⚖️")
-Added interactive code
+
 st.title("⚖️ AI Compliance & Risk Radar")
 st.write("Determine your project's risk category under the **2026 EU AI Act**.")
 
